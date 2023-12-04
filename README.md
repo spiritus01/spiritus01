@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a cognitive and computational neuroscientist working for the University of Missouri-Kansas City, School of Medicine. 
+I am developing neural data processing and analysis pipelines for EEG and MEG recordings and MRI datasets. 
+I am also developing course materials for teaching Python and machine learning to graduate students. 
 <!--
 **spiritus01/spiritus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
